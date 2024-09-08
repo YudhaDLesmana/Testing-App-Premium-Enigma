@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>r. nav_Twitter</name>
+   <tag></tag>
+   <elementGuidId>61162fbf-e25b-4d1d-a7f6-6b41a52d50e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Instagram'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3aa83ebb-3ea6-4b57-b8c3-2e0d76c9f2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://twitter.com/enigmacamp</value>
+      <webElementGuid>7e575695-1ae6-45a8-8d6a-f9001df34ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>f19ca79b-7358-4e5e-8402-de8ec2d80b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Twitter</value>
+      <webElementGuid>c176da03-4680-4bb1-892d-81b8fe8e76f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;col-12&quot;]/app-footer[1]/footer[@class=&quot;ec-bg-primary-900 text-white&quot;]/div[@class=&quot;ec-container-sm&quot;]/div[@class=&quot;d-flex flex-column flex-column flex-lg-row px-lg-4 px-0 text-center text-lg-start text-md-start&quot;]/div[@class=&quot;col-4 d-flex ec-row px-4&quot;]/div[@class=&quot;col-12 text-white d-flex flex-column gap-3 py-4&quot;]/a[2]</value>
+      <webElementGuid>752a2245-7aea-46e2-ad2a-88dd7b7274ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instagram'])[1]/following::a[1]</value>
+      <webElementGuid>2ceca0ba-e029-4889-8a52-1c89aab7d10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REACH US ON'])[1]/following::a[2]</value>
+      <webElementGuid>1ca6a9f3-75d6-4aa3-8681-205befc89525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiktok'])[1]/preceding::a[1]</value>
+      <webElementGuid>b98ccb15-adc2-4a65-85c7-97e04979efd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://twitter.com/enigmacamp')]</value>
+      <webElementGuid>8d85d2de-fef9-40c5-94a6-88149b9056a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>09de3e02-f5ad-45be-ae75-87fbc1653e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://twitter.com/enigmacamp' and (text() = 'Twitter' or . = 'Twitter')]</value>
+      <webElementGuid>c9a32140-cc7b-4931-b21f-5b499f06cda9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

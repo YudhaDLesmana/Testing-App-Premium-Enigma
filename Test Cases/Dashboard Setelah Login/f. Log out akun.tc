@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>f. Log out akun</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>622204e5-ace0-44b0-b4c6-9be0ec3641ec</testCaseGuid>
+</TestCaseEntity>

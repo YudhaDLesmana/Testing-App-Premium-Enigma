@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>a. Navigate to My Course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45323e74-7a0e-44b9-b2c3-fa78f9faf022</testCaseGuid>
+</TestCaseEntity>

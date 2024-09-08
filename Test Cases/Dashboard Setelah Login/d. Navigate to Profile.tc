@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>d. Navigate to Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c25a9b4-fef4-49eb-8fed-c6b2b14a98ef</testCaseGuid>
+</TestCaseEntity>

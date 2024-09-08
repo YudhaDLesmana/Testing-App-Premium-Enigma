@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>g. ikon_left arrow</name>
+   <tag></tag>
+   <elementGuidId>43e6e2b0-cfd0-41ca-b506-7a7afdf0e1dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-arrow-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8ac4fc55-0d2d-4a72-9741-1868f4b84a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-arrow-left</value>
+      <webElementGuid>3e085128-a570-4fd8-8005-1cbc9767a602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;ec-bg-neutral-50 position-relative sidebar&quot;]/div[@class=&quot;header ec-fs-5 fw-medium&quot;]/div[@class=&quot;col illustration d-flex flex-row justify-content-between mt-0&quot;]/i[@class=&quot;bi bi-arrow-left&quot;]</value>
+      <webElementGuid>a6725b64-cba5-4db6-b745-c05150c0eec2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>cddbbc31-94fd-4692-8045-72a1e53aa3b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>e. Navigate to Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>442ca88f-ad8b-43fb-8c93-a8ffd3475d3d</testCaseGuid>
+</TestCaseEntity>

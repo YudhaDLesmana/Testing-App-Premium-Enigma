@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>f. button_See more_Package</name>
+   <tag></tag>
+   <elementGuidId>3a996a62-42b1-43e9-b4a2-465bed74dbcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='you can choose package based what you want!'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ec-btn.btn-see-more.ec-btn-rounded.d-flex.align-items-center.gap-2.justify-content-center.pt-2.fw-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cae68a32-98af-40dd-a135-b1fa465dc1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/packages</value>
+      <webElementGuid>d6b75a0f-c7dc-4535-9f74-377917ac66c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>28f22d8e-863f-4299-9471-b678f25b3694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-btn btn-see-more ec-btn-rounded d-flex align-items-center gap-2 justify-content-center pt-2 fw-normal</value>
+      <webElementGuid>20c6a281-1bd5-472e-b00a-1d8bc1b6e43a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>183ac201-1a14-4eee-a399-6c1ada3e6de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> See more </value>
+      <webElementGuid>710cdbd2-a872-4158-85f2-902561a96957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;d-flex flex-column pt-3 wrapper-dashboard&quot;]/div[@class=&quot;d-flex flex-row justify-content-between pt-4 align-items-center px-5&quot;]/button[@class=&quot;ec-btn btn-see-more ec-btn-rounded d-flex align-items-center gap-2 justify-content-center pt-2 fw-normal&quot;]</value>
+      <webElementGuid>a19deee3-27be-4522-b970-9422d1c01b1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='you can choose package based what you want!'])[1]/following::button[1]</value>
+      <webElementGuid>2d878b15-66b6-4bdd-b66a-17e1ae9d00be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Package'])[2]/following::button[1]</value>
+      <webElementGuid>0781e105-0da3-4626-9d86-1f15a7258a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::button[1]</value>
+      <webElementGuid>32776eb8-2efa-4adc-81b0-4b286de96307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video learning'])[1]/preceding::button[2]</value>
+      <webElementGuid>27d33401-0aa8-404b-92a4-276c34a74e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='See more']/parent::*</value>
+      <webElementGuid>52ff4df4-c65f-46b4-9655-c4c8ef7d052c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>7d26eaed-915d-4f58-b406-80d7405c8d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' See more ' or . = ' See more ')]</value>
+      <webElementGuid>8c4c6bed-31c9-4c3e-a82b-b56976671bb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>b. Navigate to Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>423a7b4c-829a-462f-a9d1-0adf1e39a22e</testCaseGuid>
+</TestCaseEntity>

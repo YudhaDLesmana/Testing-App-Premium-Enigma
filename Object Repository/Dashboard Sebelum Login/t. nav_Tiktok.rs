@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>t. nav_Tiktok</name>
+   <tag></tag>
+   <elementGuidId>7a65c729-4959-4ea2-9c7b-140545de7c2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>60a72550-2a47-4b74-b18f-bce7802e1816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.tiktok.com/@enigmacamp?_t=8pUWT1LJ64V</value>
+      <webElementGuid>c7d53f72-898a-423d-ba6b-a4f79eb41521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>039b410e-48a6-4629-904d-d4dd0e6131a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiktok</value>
+      <webElementGuid>0ba4ada8-f719-4318-a73d-7fa79f362cc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;col-12&quot;]/app-footer[1]/footer[@class=&quot;ec-bg-primary-900 text-white&quot;]/div[@class=&quot;ec-container-sm&quot;]/div[@class=&quot;d-flex flex-column flex-column flex-lg-row px-lg-4 px-0 text-center text-lg-start text-md-start&quot;]/div[@class=&quot;col-4 d-flex ec-row px-4&quot;]/div[@class=&quot;col-12 text-white d-flex flex-column gap-3 py-4&quot;]/a[3]</value>
+      <webElementGuid>3cb88e10-16b3-44a7-8569-03cef9b0e57b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::a[1]</value>
+      <webElementGuid>c50d5409-63ba-44ec-9c8f-908341d6e4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instagram'])[1]/following::a[2]</value>
+      <webElementGuid>fc16e5b3-4f39-4ccb-a66d-a3f788860837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 ENIGMACAMP'])[1]/preceding::a[1]</value>
+      <webElementGuid>898dbf7d-b6b8-41c3-9f80-9521dc2f5aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.tiktok.com/@enigmacamp?_t=8pUWT1LJ64V')]</value>
+      <webElementGuid>6ee25e6d-383c-430c-a374-6e8d1ccdad0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>f3239c87-4e4b-43a4-a42e-cefb84bc3c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.tiktok.com/@enigmacamp?_t=8pUWT1LJ64V' and (text() = 'Tiktok' or . = 'Tiktok')]</value>
+      <webElementGuid>eb9a5015-d269-4289-888f-bbab0414e25f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>j. Melihat Notifikasi untuk Akun User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a85e7a07-56c1-4c0a-affb-8cac68aeed8d</testCaseGuid>
+</TestCaseEntity>
